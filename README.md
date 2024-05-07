@@ -2,7 +2,13 @@ Note:- Refer to the below command line for Smooth Work Flow(For Developers)
 
 git pull from main branch
 
-git create a new branch -> git branch date_work_topic
+git create a new branch -> git branch branch_name
+
+branch_name should be in the format->date_work_topic
+
+So, Now the branch is created..
+
+To moeve to bew branch, git checkout branch_name
 
 Work on the mentioend topic
 
