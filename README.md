@@ -1,5 +1,9 @@
 Note:- Refer to the below command line for Smooth Work Flow(For Developers)
 
+Before we start, move to main branch
+
+git checkout main
+
 git pull from main branch
 
 git create a new branch -> git branch branch_name
