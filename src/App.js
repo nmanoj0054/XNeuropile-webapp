@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={"XN-5 image.jpg"} className="App-logo" alt="logo" style={{borderRadius:"5rem"}}/>
+        <img src={"XN-5 image.jpg"} className="App-logo" alt="logo" style={{borderRadius:"30px",marginBottom:"50px"}}/>
         <p>
           {/* Edit <code>src/App.js</code> and save to reload.
            */}
