@@ -12,7 +12,7 @@ branch_name should be in the format->date_work_topic
 
 So, Now the branch is created..
 
-To moeve to bew branch, git checkout branch_name
+To move to branch, git checkout branch_name
 
 Work on the mentioned topic
 
