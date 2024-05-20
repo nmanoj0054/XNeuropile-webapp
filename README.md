@@ -14,7 +14,7 @@ So, Now the branch is created..
 
 To moeve to bew branch, git checkout branch_name
 
-Work on the mentioend topic
+Work on the mentioned topic
 
 git add .
 
