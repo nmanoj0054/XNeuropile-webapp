@@ -26,6 +26,12 @@ const Login = () => {
             <input type='password' placeholder='Password'/>
           </div>
         </div>
+        <div className="forgot-password"> <span>Forgot Password?</span></div>
+        <div className="submit-container">
+          <div className="submit">Signup</div>
+          <div className="submit">Signup</div>
+
+        </div>
     </div>
   )
 }
