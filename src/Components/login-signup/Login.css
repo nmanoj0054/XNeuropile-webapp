@@ -33,7 +33,7 @@ body {
     width: 50px;
     height: 2px;
     background: #008000;
-    margin:30px auto;
+    margin:10px auto;
   }
   
   .inputs {
@@ -61,7 +61,24 @@ body {
   }
 
   .submit {
-   
     text-align: center;
-    color: #34de1e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 40px;
+    background: #34de1e;
+    border-radius: 50px;
+    font-size: 19px;
+    cursor: pointer;
+  }
+  .forgot-password {
+    text-align: center;
+    color: #6040c9;}
+
+  .submit-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 10px;
   }
